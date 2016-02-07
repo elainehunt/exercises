@@ -1,0 +1,10 @@
+Feb. 10 Homework
+Elaine Hunt 
+
+Data: http://www.nasa.gov/missions 
+
+This data is useful because it tells a lot about NASA’s different goals and missions over time. Currently, it’s only organized alphabetically. However, it could be organized by date, by mission goal, or by budget per mission. It also allows us to look at how many or few missions NASA is operating at a given time, which gives us a clue into how much of the federal budget they are being allotted at that time. This data shows the progression of the space program, from putting a man on the moon through the shuttle program to Mars rovers, and eventually to putting people on Mars as well. Many of the missions also have social media accounts, which could be used to gauge public popularity of the different missions. 
+
+I imagine this data would be best presented in a timeline showing the number of missions per year, and within that have the timeline broken down into what were NASA’s priorities laid in that time (Earth-orbiting missions, missions to the moon, missions to Mars, etc.) Another potential timeline would be to show how the budgets for NASA missions changed over time. This could be compared to a different data set of the federal budget for the agency over time as well. Today, social media is a huge part of NASA missions. Every mission that gets launched has at least a Twitter account and a Facebook page, and sometimes and Instagram account. These could be organized to demonstrate both the rise of social media importance within NASA, as well as the level of public popularity based on social media followers for each mission. This could be demonstrated with a chart of some sort showing NASA’s most popular missions based on social media followers.   
+
+
